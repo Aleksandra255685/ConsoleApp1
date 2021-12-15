@@ -36,12 +36,13 @@ namespace ConsoleApp1
                 }
                 k++;
             }
-
+            Console.WriteLine("rfr ltkf");
 
             Console.WriteLine("Вывод A: ");
             for (int i = 0; i < A.Length; i++)
             {
                 Console.Write(A[i] + " ");
+
             }
         }
     }
